@@ -1,0 +1,11 @@
+---
+extends: eslint-config-alexfedoseev/base
+
+rules:
+  no-empty-label: 0
+  no-labels: 0
+  keyword-spacing: 0
+  space-after-keywords: 0
+  space-return-throw-case: 0
+  no-undef: 0
+
